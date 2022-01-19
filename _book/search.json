@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "inclusive-meetings",
+    "title": "Inclusive Meetings Toolkit",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Inclusive Meeting Toolkit Preface\nThis is created using Quarto! To learn more about Quarto books visit https://quarto.org/docs/books.\nIt’s important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings.\nIn this toolkit there are resources you can use for meeting planning, facilitation and follow up.\nIdeas and feedback welcome in the github repository."
   },
   {
     "objectID": "intro.html",
@@ -33,5 +33,19 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "checklist.html",
+    "href": "checklist.html",
+    "title": "2  Checklist",
+    "section": "",
+    "text": "This is a checklist you can review when planning a virtual meeting.\n\nCalendar invitation with meeting link and link to agenda\nAgenda\nFacilitator identified\nFacilitation approach identified"
+  },
+  {
+    "objectID": "index.html#inclusive-meeting-toolkit",
+    "href": "index.html#inclusive-meeting-toolkit",
+    "title": "Inclusive Meetings Toolkit",
+    "section": "Inclusive Meeting Toolkit",
+    "text": "Inclusive Meeting Toolkit\nThis is created using Quarto! To learn more about Quarto books visit https://quarto.org/docs/books.\nIt’s important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings.\nIn this toolkit there are resources you can use for meeting planning, facilitation and follow up.\nIdeas and feedback welcome in the github repository."
   }
 ]
