@@ -1,9 +1,10 @@
-# Preface {.unnumbered}
+# Inclusive Meeting Toolkit Preface {.unnumbered}
 
-This is a Quarto book.
+This is created using Quarto! To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+It's important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings. 
 
-```{r}
-1 + 1
-```
+In this toolkit there are resources you can use for meeting planning, facilitation and follow up. 
+
+Ideas and feedback welcome in the github repository.
+
