@@ -8,8 +8,14 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - chapter2.qmd
+    - checklist.qmd
+    - cheatsheet.qmd
+    - planning.qmd
+    - opening.qmd
+    - facilitation.qmd
+    - responding.qmd
+    - closing.qmd
+    - followup.qmd
     - references.qmd
 
 bibliography: references.bib
