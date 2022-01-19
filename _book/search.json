@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Inclusive Meetings Toolkit",
     "section": "",
-    "text": "Inclusive Meeting Toolkit Preface\nThis is created using Quarto! To learn more about Quarto books visit https://quarto.org/docs/books.\nIt’s important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings.\nIn this toolkit there are resources you can use for meeting planning, facilitation and follow up.\nIdeas and feedback welcome in the github repository."
+    "text": "Preface\nThis is created using Quarto! To learn more about Quarto books visit https://quarto.org/docs/books.\nIt’s important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings.\nIn this toolkit there are resources you can use for meeting planning, facilitation and follow up.\nIdeas and feedback welcome in the github repository."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nHere’s more informations\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is an inclusive meeting toolkit for virtual meetings."
   },
   {
     "objectID": "summary.html",
@@ -47,5 +47,54 @@
     "title": "Inclusive Meetings Toolkit",
     "section": "Inclusive Meeting Toolkit",
     "text": "Inclusive Meeting Toolkit\nThis is created using Quarto! To learn more about Quarto books visit https://quarto.org/docs/books.\nIt’s important to have inclusive meetings, because everyone should be able to participate and inclusive meetings are effective meetings.\nIn this toolkit there are resources you can use for meeting planning, facilitation and follow up.\nIdeas and feedback welcome in the github repository."
+  },
+  {
+    "objectID": "cheatsheet.html",
+    "href": "cheatsheet.html",
+    "title": "3  Cheatsheet",
+    "section": "",
+    "text": "The is a cheatsheet with the key points around inclusive meetings"
+  },
+  {
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "4  Planning the Meeting",
+    "section": "",
+    "text": "An important part of any meeting is planning it in advance. What type of meeting is it, what are the goals?"
+  },
+  {
+    "objectID": "opening.html",
+    "href": "opening.html",
+    "title": "5  Opening the Meeting",
+    "section": "",
+    "text": "How you start off the meeting matters, it sets the tone."
+  },
+  {
+    "objectID": "facilitation.html",
+    "href": "facilitation.html",
+    "title": "6  Meeting Facilitation",
+    "section": "",
+    "text": "There are a few key components to facilitation of a meeting."
+  },
+  {
+    "objectID": "responding.html",
+    "href": "responding.html",
+    "title": "7  Responding",
+    "section": "",
+    "text": "Sometimes things don’t go the way you hope. How can you get things back on track?"
+  },
+  {
+    "objectID": "closing.html",
+    "href": "closing.html",
+    "title": "8  Closing",
+    "section": "",
+    "text": "How you close the meeting also matters, people remember the end, and also it’s a chance to recap any action items."
+  },
+  {
+    "objectID": "followup.html",
+    "href": "followup.html",
+    "title": "9  Follow Up",
+    "section": "",
+    "text": "Not all meetings require follow up after the meeting, but some do. You’ll want to note action items wherever your team notes these things, and potentially send out a summary."
   }
 ]

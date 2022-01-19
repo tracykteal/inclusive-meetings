@@ -1,4 +1,4 @@
-# Inclusive Meeting Toolkit Preface {.unnumbered}
+# Preface {.unnumbered}
 
 This is created using Quarto! To learn more about Quarto books visit <https://quarto.org/docs/books>.
 

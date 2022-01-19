@@ -1,0 +1,6 @@
+# Follow Up
+
+Not all meetings require follow up after the meeting, but some do. You'll want
+to note action items wherever your team notes these things, and potentially
+send out a summary. 
+
